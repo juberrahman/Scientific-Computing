@@ -1,2 +1,6 @@
-# Scientific-Computing
-This repository is based on the graduate course: Scientific Computing at The University of Memphis
+# Programs demonstrating efficient Computing techniques to solve complex mathematical problems
+### Singular Value Decomposition
+### Spectral Method
+### Q-R decomposition, Gram–Schmidt process 
+### Orthogonal and Non-Orthogonal Projectors
+### Optimization Problems
